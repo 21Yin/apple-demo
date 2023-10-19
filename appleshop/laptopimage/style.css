@@ -1,0 +1,59 @@
+.carousel-item img{
+    z-index: 1;
+    width: 100%;
+    height: 1000px;
+    
+}
+.carousel-caption{
+    z-index: 2;
+    /* margin-bottom: 300px;
+    margin-left: 50%; */
+    line-height: 2;
+    text-transform: uppercase;
+    
+}
+h3{
+    font-family: 'Rubik Vinyl', cursive;
+    
+
+}
+.card img{
+    width: 100px;
+    
+    /* height: 200px; */
+}
+.show img{
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    position: sticky;
+    
+}
+.show{
+        color: palevioletred;
+   
+}
+.show,p{
+    z-index: 3;
+}
+/* .card{
+    width: 50%;
+} */
+/* .carousel-item{
+    margin: 20px;
+} */ 
+.navbar-brand{
+    font-family: 'Rubik Vinyl', cursive;
+    
+}
+.black{
+    font-family: 'Rubik Vinyl', cursive;
+    color: palevioletred;
+}
+.icon{
+    color: palevioletred;
+    margin-left: 200px;
+    padding: 5px;
+    border: 1px solid palevioletred;
+    border-radius: 50px;
+}
